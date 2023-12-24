@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Eric.<br>I'm a web developer from Nairobi, Kenya.</h2>
+<h2 align="right">Hi 👋! My name is Eric.<br>I'm a web developer from Nairobi, Kenya.</h2>
 
 ###
 
