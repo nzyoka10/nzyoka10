@@ -59,7 +59,7 @@
 </details>
 
 [website]: https://nzyoka-developer.com/
-[YouTube]: https://www.youtube.com/
+[YouTube]: https://www.youtube.com/watch?v=rWMuEIcdJP4&ab_channel=Codecademy
 [instagram]: https://www.instagram.com/_byte.bard__
 [linkedin]: https://linkedin.com/in/eric-nzyoka
 
