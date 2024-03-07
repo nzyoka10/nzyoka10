@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with Flutter
-- 💬 Ask me about ...web
-- 📫 How to reach me: ... [Linkedln](https://www.linkedin.com/in/eric-nzyoka/)
+- 💬 Ask me about ...Web development
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/_byte.bard_/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very HAPPY!!
 
