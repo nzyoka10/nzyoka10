@@ -1,15 +1,15 @@
 ### Hello World, I'm Eric 👋
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" width="200" height="200" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" width="300" height="400" />
 
 ## I'm a Designer and Web Developer!!
 
 - 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DPython
 - 👯 I’m looking to collaborate on open-source
-- 💬 Ask me about ...Web development
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/nzyok.a/)
+- 💬 Ask me about ...Web
 - ⚡ Fun fact: ...I am very HAPPY!!
+<!-- - 📫 How to reach me: ... [Instagram](https://www.instagram.com/nzyok.a/) -->
 <!-- - 🤔 I’m looking for help with Flutter -->
 
 
