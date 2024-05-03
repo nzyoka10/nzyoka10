@@ -14,7 +14,7 @@
 
 
 # 💻 Tech Stack:
-- Technologies I've been working with recently:- <br/>
+[x] Technologies I've been working with recently:- <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -42,10 +42,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
-
-
-
-<br />
 <br />
 ---
 
@@ -53,7 +49,7 @@
   <summary>:zap: GitHub Stats</summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nzyoka10&theme=radical&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nzyoka10&theme=radical&hide_border=true) -->
 
 </details>
 
