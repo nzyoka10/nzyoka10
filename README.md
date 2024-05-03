@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" width="300" height="400" /> -->
 
-## I'm a Junior full-stack developer, passionate about creating innovative web solutions!!
+#### I'm a Junior full-stack developer, passionate about creating innovative web solutions!!
 
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning Python
@@ -13,7 +13,7 @@
 <!-- - 🤔 I’m looking for help with Flutter -->
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 [x] Technologies I've been working with recently:- <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
@@ -42,8 +42,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
-<br />
----
+######
 
 <details>
   <summary>:zap: GitHub Stats</summary>
