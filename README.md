@@ -5,11 +5,11 @@
 #### I'm a Junior full-stack developer, passionate about creating innovative web solutions!!
 
 - 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning `MERN Stack` de
 - 👯 I’m looking to collaborate on open-source
-- 💬 Ask me about ...Web
+- 💬 Ask me about ...Web Development
 - ⚡ Fun fact: ...I am very HAPPY!!
-<!-- - 📫 How to reach me: ... [Instagram](https://www.instagram.com/nzyok.a/) -->
+-  📫 How to reach me: ... [Instagram](https://www.instagram.com/nzyok10/)
 <!-- - 🤔 I’m looking for help with Flutter -->
 
 
