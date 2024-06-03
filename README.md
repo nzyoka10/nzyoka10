@@ -1,15 +1,16 @@
-### Hello World, I'm Eric 👋
 
-<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" width="300" height="400" /> -->
+### Jambo! I'm Eric 👋
 
-#### I'm a Junior full-stack developer, passionate about creating innovative web solutions!!
+I'm a new Junior Full-Stack Developer from Kenya. I'm really into making cool websites and apps.
 
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning `MERN Stack` de
-- 👯 I’m looking to collaborate on open-source
-- 💬 Ask me about ...Web Development
-- ⚡ Fun fact: ...I am very HAPPY!!
--  📫 How to reach me: ... [Instagram](https://www.instagram.com/nzyok10/)
+- 🔭 Right now, I'm learning a lot in a course.
+- 🌱 I'm getting good at using the `MERN Stack` for making websites.
+- 👯 I'd love to help out with any open-source projects.
+- 💬 If you have any questions about making websites, just ask!
+- ⚡ Fun fact: I'm always super happy!
+- 📫 You can find me on [Instagram](https://www.instagram.com/nzyok10/).
+
+I can't wait to meet other people who love making cool stuff too!
 <!-- - 🤔 I’m looking for help with Flutter -->
 
 
