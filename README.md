@@ -13,6 +13,14 @@ I'm a new Junior Full-Stack Developer from Kenya. I'm really into making cool we
 I can't wait to meet other people who love making cool stuff too!
 <!-- - 🤔 I’m looking for help with Flutter -->
 
+### Projects:
+
+- Below are some of the projects have worked on.
+
+| Project Name | Screenshot/Description | Tools Used | Project Repository |
+|--------------|------------------------|------------|--------------------|
+| **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript | [Click here](https://github.com/nzyoka10/contact-me) |
+
 
 ### 💻 Tech Stack:
   - Technologies I've been working with recently:-
