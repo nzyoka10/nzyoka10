@@ -20,7 +20,7 @@ I can't wait to meet other people who love making cool stuff too!
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
 | **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | `Hey` [Click me](https://contac-me.netlify.app/) |
-| **Taste & Share Kenya** |<img src="img/#" alt="Contact form" width="200px" height="100px">  <br> This is a Recipe Website that gives difference types **Kenyan Dishes** `enjoy!`. | HTML, CSS, JavaScript, Google Script `(Database)` | `Hey` [Click me](https://#!/) |
+| **Taste & Share Kenya** |<img src="img/img/taste-kenya.png" alt="Contact form" width="200px" height="100px">  <br> This is a Recipe Website that gives difference types **Kenyan Dishes** `enjoy!`. | HTML, CSS, JavaScript, Google Script `(Database)` | `Hey` [Click me](https://#!/) |
 
 
 
