@@ -22,11 +22,6 @@ I can't wait to meet other people who love making cool stuff too!
 | **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify (`Hosting`) | `Hey` [Click me](https://contac-me.netlify.app/) |
 | **Find Recipes** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This is a Recipe Website that gives difference types **Kenyan Dishes** `enjoy!`. | HTML, CSS, JavaScript, Google Script (Database) | `Hey` [Click me](https://#!/) |
 
-HTML
-CSS
-JavaScript Front-End & Back-end
-Google Script (Database)
-cdnjs
 
 
 ### 💻 Tech Stack:
