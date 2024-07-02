@@ -1,7 +1,7 @@
 
 ### Jambo! I'm Eric 👋
 
-I'm a new Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
+I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
 - 🔭 Right now, I'm learning a lot in a course.
 - 🌱 I'm getting good at using the `MERN Stack` for making websites.
