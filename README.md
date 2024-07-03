@@ -17,10 +17,18 @@ I can't wait to meet other people who love making cool stuff too!
 
 - Below are some of the projects have worked on.
 
+<details>
+
+<summary>Click here to view.</summary>
+
+<!-- projects table -->
+
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
 | **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | `Hey` [Click me](https://contac-me.netlify.app/) |
 | **Taste & share Kenya** |<img src="img/taste-kenya.png" alt="taste-kenya img" width="200px" height="100px">  <br> This is a Recipe Website that gives difference types **Kenyan Dishes** `enjoy!`. | HTML, CSS, JavaScript, Google Script `(Database)`, Github | `Hey` [Click me](https://taste-kenya.netlify.app/) |
+
+</details>
 
 
 
