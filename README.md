@@ -19,16 +19,19 @@ I can't wait to meet other people who love making cool stuff too!
 
 <details>
 
-<summary>Click here to view.</summary>
+<summary>Click To Expand.</summary>
 
 <!-- projects table -->
 
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
-| **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | `Hey` [Click me](https://contac-me.netlify.app/) |
-| **Taste & share Kenya** |<img src="img/taste-kenya.png" alt="taste-kenya img" width="200px" height="100px">  <br> This is a Recipe Website that gives difference types **Kenyan Dishes** `enjoy!`. | HTML, CSS, JavaScript, Google Script `(Database)`, Github | `Hey` [Click me](https://taste-kenya.netlify.app/) |
+| **Portfolio Web Project** |<img src="img/img.png" alt="Portfolio Website" width="200px" height="100px">  <br> My personal portfolio website, showcasing my skills, experience, and projects as a software developer. | HTML, CSS, JavaScript, Google Fonts, Media Queries | [Click me](#) |
+| **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [Click me](https://contac-me.netlify.app/) |
+| **Taste & Share Kenya** |<img src="img/taste-kenya.png" alt="Taste Kenya" width="200px" height="100px">  <br> This is a recipe website that showcases different types of **Kenyan dishes**. Enjoy! | HTML, CSS, JavaScript, Google Script `(Database)`, GitHub | [Click me](https://taste-kenya.netlify.app/) |
+
 
 </details>
+
 
 
 
