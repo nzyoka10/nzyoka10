@@ -26,7 +26,7 @@ I can't wait to meet other people who love making cool stuff too!
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
 | **Portfolio Website** |<img src="img/p-web.png" alt="Portfolio Website" width="200px" height="100px">  <br> My personal portfolio website, showcasing my skills, experience, and projects as a software developer. | HTML, CSS, JavaScript, Google Fonts, Media Queries | [Click me](#) |
-| **Contact Form** |<img src="img/contact.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [Click me](https://contac-me.netlify.app/) |
+| **ToDo App** |<img src="img/todo-app.png" alt="Contact form" width="200px" height="100px">  <br> This form validates user input for name, email, and message fields, ensuring all are filled correctly before sending an email via JavaScript. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [Click me](https://contac-me.netlify.app/) |
 | **Taste & Share Kenya** |<img src="img/taste-kenya.png" alt="Taste Kenya" width="200px" height="100px">  <br> This is a recipe website that showcases different types of **Kenyan dishes**. Enjoy! | HTML, CSS, JavaScript, Google Script `(Database)`, GitHub | [Click me](https://taste-kenya.netlify.app/) |
 
 
