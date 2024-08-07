@@ -25,7 +25,7 @@ I can't wait to meet other people who love making cool stuff too!
 
 | Project Name | Screenshot/Description | Tools Used | Project Repository |
 |--------------|------------------------|------------|--------------------|
-| **Portfolio Website** |<img src="img/p-web.png" alt="Portfolio Website" width="200px" height="100px">  <br> My personal portfolio website, showcasing my skills, experience, and projects as a **``web developer``**. | HTML, CSS, JavaScript, Google Fonts, Media Queries | [``Live Preview``](#) |
+<!-- | **Portfolio Website** |<img src="img/p-web.png" alt="Portfolio Website" width="200px" height="100px">  <br> My personal portfolio website, showcasing my skills, experience, and projects as a **``web developer``**. | HTML, CSS, JavaScript, Google Fonts, Media Queries | [``Live Preview``](#) | -->
 | **ToDo App** |<img src="img/todo-app.png" alt="Contact form" width="200px" height="100px">  <br> Simple **ToDo App**, where user can key in their do's and the list is diplayed in a table. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://t-list-app.netlify.app/) |
 | **Landing Page** |<img src="img/bird.png" alt="Landing page" width="200px" height="100px">  <br> This is a simple landing page about different species birds! | HTML & CSS | [``Live Preview``](https://nzyoka10.github.io/landing_page/index.html) |
 | **Simple Clock** |<img src="img/clock.png" alt="Landing page" width="200px" height="100px">  <br> This a simple project of showing real time using JavaScript! | HTML, CSS & JavaScript | [``Live Preview``](https://clock-digita.netlify.app/) |
