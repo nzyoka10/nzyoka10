@@ -13,28 +13,21 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 I can't wait to meet other people who love making cool stuff too!
 <!-- - 🤔 I’m looking for help with Flutter -->
 
-### Projects:
-
-- Below are some of the projects have worked on.
+## Projects Showcase
 
 <details>
+  <summary>Click To Expand</summary>
 
-<summary>Click To Expand.</summary>
-
-<!-- projects table -->
-
-| Project Name | Screenshot/Description | Tools Used | Project Repository |
-|--------------|------------------------|------------|--------------------|
-| **Water Billing Management App** |<img src="img/wt-dash.png" alt="Contact form" width="200px" height="100px"> <img src="img/wt-report.png" alt="Contact form" width="200px" height="100px">  <br> Utility application desgined to bill water account based on customer consumption | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://kra.go.ke/) |
-| **ToDo App** |<img src="img/todo-app.png" alt="Contact form" width="200px" height="100px">  <br> Simple **ToDo App**, where user can key in their do's and the list is diplayed in a table. | HTML, CSS, JavaScript, Netlify `(Hosting)` | [``Live Preview``](https://t-list-app.netlify.app/) |
-| **Landing Page** |<img src="img/bird.png" alt="Landing page" width="200px" height="100px">  <br> This is a simple landing page about different species birds! | HTML & CSS | [``Live Preview``](https://nzyoka10.github.io/landing_page/index.html) |
-| **Simple Clock** |<img src="img/clock.png" alt="Landing page" width="200px" height="100px">  <br> This a simple project of showing real time using JavaScript! | HTML, CSS & JavaScript | [``Live Preview``](https://clock-digita.netlify.app/) |
-
+  | **Project Name**                  | **Screenshot/Description**                                                                                                             | **Tools Used**                                    | **Project Repository**                           |
+  |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
+  | **Water Billing Management App**  | ![Water Billing Dashboard](img/wt-dash.png) ![Water Billing Report](img/wt-report.png) <br> Utility application designed to bill water accounts based on customer consumption | HTML, CSS(Bootstrap), JavaScript, PHP, MySQL (Hosting)        | [Live Preview](https://kra.go.ke/)              |
+  | **ToDo App**                      | ![ToDo App](img/todo-app.png) <br> Simple **ToDo App**, where users can key in their tasks and the list is displayed in a table.       | HTML, CSS, JavaScript, Netlify (Hosting)        | [Live Preview](https://t-list-app.netlify.app/) |
+  | **Landing Page**                 | ![Landing Page](img/bird.png) <br> A simple landing page about different species of birds!                                           | HTML & CSS                                       | [Live Preview](https://nzyoka10.github.io/landing_page/index.html) |
+  | **Simple Clock**                 | ![Simple Clock](img/clock.png) <br> A project showing real-time using JavaScript!                                                     | HTML, CSS & JavaScript                           | [Live Preview](https://clock-digita.netlify.app/) |
 
 </details>
 
 
-| **Portfolio Website** |<img src="img/p-web.png" alt="Portfolio Website" width="200px" height="100px">  <br> My personal portfolio website, showcasing my skills, experience, and projects as a **``web developer``**. | HTML, CSS, JavaScript, Google Fonts, Media Queries | [``Live Preview``](#) |
 
 ### 💻 Tech Stack:
   - Technologies I've been working with recently:-
