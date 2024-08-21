@@ -4,7 +4,7 @@
 I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
 - 🔭 Right now, I'm learning a lot in a course.
-- 🌱 I'm getting good at using the `Backend Development` for building applications.
+- 🌱 I'm getting good at using the `Backend Development` with **Python**
 - 👯 I'd love to help out with any open-source projects.
 - 💬 If you have any questions about making websites, just ask!
 - ⚡ Fun fact: I'm always super happy!
