@@ -4,11 +4,11 @@
 I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
 - 🔭 Right now, I'm learning a lot in a course.
-- 🌱 I'm getting good at using the `MERN Stack` for making websites.
+- 🌱 I'm getting good at using the `Backend Development` for building applications.
 - 👯 I'd love to help out with any open-source projects.
 - 💬 If you have any questions about making websites, just ask!
 - ⚡ Fun fact: I'm always super happy!
-- 📫 You can find me on [Instagram](https://www.instagram.com/nzyok10/).
+- 📫 You can find me on [Instagram].
 
 I can't wait to meet other people who love making cool stuff too!
 <!-- - 🤔 I’m looking for help with Flutter -->
