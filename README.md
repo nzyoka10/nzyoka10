@@ -11,14 +11,14 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 I can't wait to meet other people who love making cool stuff too!
 
-### 💻 Technical Skills:
-
-- Technologies I've been working with recently:-
 ###
 
 <img align="right" height="150" src="https://app.digifunzi.com/images/16893490130660efe82fa3da42ed56eef013171835.gif"  />
 
-###
+
+### 💻 Technical Skills:
+
+- Technologies I've been working with recently:-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
