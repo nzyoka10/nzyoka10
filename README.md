@@ -1,19 +1,16 @@
 ### Jambo! I'm Eric 👋
 
+###
+
+<img align="right" height="150" src="https://app.digifunzi.com/images/16893490130660efe82fa3da42ed56eef013171835.gif"  />
+
 I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
 - 🔭 Right now, I'm learning Kotlin for Mobile dev.
 - 🌱 I'm good at using `Python` for **Backend Development**
-- 👯 I'd love to help out with any open-source projects.
-- 💬 If you have questions about making web/ backend development, just ask!
 - ⚡ Fun fact: I'm always super happy!
 - 📫 You can find me on [Instagram][Instagram].
-
-I can't wait to meet other people who love making cool stuff too!
-
-###
-
-<img align="right" height="150" src="https://app.digifunzi.com/images/16893490130660efe82fa3da42ed56eef013171835.gif"  />
+- 
 
 
 ### 💻 Technical Skills:
