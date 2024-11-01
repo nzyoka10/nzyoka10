@@ -2,16 +2,16 @@
 
 I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
-- 🔭 Right now, I'm learning a lot in a course.
-- 🌱 I'm getting good at using the `Backend Development` with **Python**
+- 🔭 Right now, I'm learning Kotlin for Mobile dev.
+- 🌱 I'm good at using `Python` for **Backend Development**
 - 👯 I'd love to help out with any open-source projects.
-- 💬 If you have any questions about making websites, just ask!
+- 💬 If you have questions about making web/ backend development, just ask!
 - ⚡ Fun fact: I'm always super happy!
 - 📫 You can find me on [Instagram][Instagram].
 
 I can't wait to meet other people who love making cool stuff too!
 
-### 💻 Tech Stack:
+### 💻 Technical Skills:
 
 - Technologies I've been working with recently:-
 ###
