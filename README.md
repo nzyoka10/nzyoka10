@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3067310403&psig=AOvVaw1VgGuW2AnjmOeLSvH4I5Do&ust=1730524946064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICB__qxuokDFQAAAAAdAAAAABBA"  />
+<img align="right" height="200" width="100%" src="https://app.digifunzi.com/images/16893490130660efe82fa3da42ed56eef013171835.gif"  />
 
 I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites and web applications.
 
