@@ -11,23 +11,6 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 I can't wait to meet other people who love making cool stuff too!
 
-<!-- - 🤔 I’m looking for help with Flutter -->
-
-## Projects Showcase
-
-<details>
-  <summary>Click To Expand</summary>
-
-| **Project Name**                 | **Screenshot/Description**                                                                                                                                              | **Tools Used**                                                                               | **Project Repository**                                    |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Firearms Store**               | ![Firearm web application](img/firearm.png)`<br>` FireArmPro is an online store where users can browse and purchase various types of firearms.<br />                          | HTML, CSS, and Bootstrap, a robust backend using Python-Flask, and secure data storage with MySQL. | [Live Preview](https://kra.go.ke/)                                 |
-| **Water Billing Management App** | ![Water Billing Dashboard](img/wt-dash.png) `<br>` Utility application designed to bill water accounts based on customer consumption | HTML, CSS(Bootstrap), JavaScript, PHP, MySQL (Hosting)                                             | [Live Preview](https://kra.go.ke/)                                 |
-| **ToDo App**                     | ![ToDo App](img/todo-app.png) `<br>` Simple **ToDo App**, where users can key in their tasks and the list is displayed in a table.                                      | HTML, CSS, JavaScript, Netlify (Hosting)                                                           | [Live Preview](https://t-list-app.netlify.app/)                    |
-| **Landing Page**                 | ![Landing Page](img/bird.png) `<br>` A simple landing page about different species of birds!                                                                                  | HTML & CSS                                                                                         | [Live Preview](https://nzyoka10.github.io/landing_page/index.html) |
-| **Simple Clock**                 | ![Simple Clock](img/clock.png) `<br>` A project showing real-time using JavaScript!                                                                                           | HTML, CSS & JavaScript                                                                             | [Live Preview](https://clock-digita.netlify.app/)                  |
-
-</details>
-
 ### 💻 Tech Stack:
 
 - Technologies I've been working with recently:-
@@ -98,6 +81,23 @@ I can't wait to meet other people who love making cool stuff too!
 </div>
 
 ###
+
+## Projects Showcase
+
+<details>
+  <summary>Click To Expand</summary>
+
+| **Project Name**                 | **Screenshot/Description**                                                                                                                                              | **Tools Used**                                                                               | **Project Repository**                                    |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Firearms Store**               | ![Firearm web application](img/firearm.png)`<br>` FireArmPro is an online store where users can browse and purchase various types of firearms.<br />                          | HTML, CSS, and Bootstrap, a robust backend using Python-Flask, and secure data storage with MySQL. | [Live Preview](https://kra.go.ke/)                                 |
+| **Water Billing Management App** | ![Water Billing Dashboard](img/wt-dash.png) `<br>` Utility application designed to bill water accounts based on customer consumption | HTML, CSS(Bootstrap), JavaScript, PHP, MySQL (Hosting)                                             | [Live Preview](https://kra.go.ke/)                                 |
+| **ToDo App**                     | ![ToDo App](img/todo-app.png) `<br>` Simple **ToDo App**, where users can key in their tasks and the list is displayed in a table.                                      | HTML, CSS, JavaScript, Netlify (Hosting)                                                           | [Live Preview](https://t-list-app.netlify.app/)                    |
+| **Landing Page**                 | ![Landing Page](img/bird.png) `<br>` A simple landing page about different species of birds!                                                                                  | HTML & CSS                                                                                         | [Live Preview](https://nzyoka10.github.io/landing_page/index.html) |
+| **Simple Clock**                 | ![Simple Clock](img/clock.png) `<br>` A project showing real-time using JavaScript!                                                                                           | HTML, CSS & JavaScript                                                                             | [Live Preview](https://clock-digita.netlify.app/)                  |
+
+</details>
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
