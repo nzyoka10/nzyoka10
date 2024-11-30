@@ -73,6 +73,8 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 
 ## My Projects
+<details>
+	<zip>Projects</zip>
 1. **Online Store**
   - An online firearm store with a userfriendly interface (HTML, CSS, Bootstrap), a secure backend (PythonFlask, MySQL), and secure payments via the Mpesa API.
 
@@ -85,6 +87,7 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 4. **Toyota Supra**
   - Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s history, explore different models, and browse a gallery of stunning images. Built with HTML, CSS (Bootstrap), and JavaScript, this site offers a modern and engaging experience for car enthusiasts, celebrating the Supra’s legacy and design excellence.
+</detailes>
 
 ##### Socials
 
