@@ -74,7 +74,8 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 ## My Projects
 <details>
-	<zip>Projects</zip>
+	
+
 1. **Online Store**
   - An online firearm store with a userfriendly interface (HTML, CSS, Bootstrap), a secure backend (PythonFlask, MySQL), and secure payments via the Mpesa API.
 
