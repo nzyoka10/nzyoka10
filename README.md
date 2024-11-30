@@ -13,20 +13,19 @@ I can't wait to meet other people who love making cool stuff too!
 
 <!-- - 🤔 I’m looking for help with Flutter -->
 
-## Projects Showcase
+## My Projects
+1. **Online Store**
+  - An online firearm store with a userfriendly interface (HTML, CSS, Bootstrap), a secure backend (PythonFlask, MySQL), and secure payments via the Mpesa API.
 
-<details>
-  <summary>Click To Expand</summary>
+2. **Billing App**
+  - A water billing and customer management system built with PHP and MySQL, designed for efficient billing, record-keeping, and streamlined customer management.
 
-| **Project Name**                 | **Screenshot/Description**                                                                                                                                              | **Tools Used**                                                                               | **Project Repository**                                    |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Firearms Store**               | ![Firearm web application](img/firearm.png)`<br>` FireArmPro is an online store where users can browse and purchase various types of firearms.<br />                          | HTML, CSS, and Bootstrap, a robust backend using Python-Flask, and secure data storage with MySQL. | [Live Preview](https://kra.go.ke/)                                 |
-| **Water Billing Management App** | ![Water Billing Dashboard](img/wt-dash.png) `<br>` Utility application designed to bill water accounts based on customer consumption | HTML, CSS(Bootstrap), JavaScript, PHP, MySQL (Hosting)                                             | [Live Preview](https://kra.go.ke/)                                 |
-| **ToDo App**                     | ![ToDo App](img/todo-app.png) `<br>` Simple **ToDo App**, where users can key in their tasks and the list is displayed in a table.                                      | HTML, CSS, JavaScript, Netlify (Hosting)                                                           | [Live Preview](https://t-list-app.netlify.app/)                    |
-| **Landing Page**                 | ![Landing Page](img/bird.png) `<br>` A simple landing page about different species of birds!                                                                                  | HTML & CSS                                                                                         | [Live Preview](https://nzyoka10.github.io/landing_page/index.html) |
-| **Simple Clock**                 | ![Simple Clock](img/clock.png) `<br>` A project showing real-time using JavaScript!                                                                                           | HTML, CSS & JavaScript                                                                             | [Live Preview](https://clock-digita.netlify.app/)                  |
 
-</details>
+3. **Mental Health Support App**
+  - AfyaMind is a web platform offering accessible and culturally relevant mental health resources for young adults in Kenya. It aims to reduce stigma and provide tools to manage stress and mental health issues.
+
+4. **Toyota Supra**
+  - Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s history, explore different models, and browse a gallery of stunning images. Built with HTML, CSS (Bootstrap), and JavaScript, this site offers a modern and engaging experience for car enthusiasts, celebrating the Supra’s legacy and design excellence.
 
 ### 💻 Tech Stack:
 
