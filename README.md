@@ -102,17 +102,23 @@ AfyaMind is a web platform offering accessible and culturally relevant mental he
    <summary>Click to view images</summary>
 
    - **Homepage**  
-     ![Homepage](images/mental/home.png)
+     ![Homepage](images/mental/homepage.png)
+     
+   - **About page**
+     ![About page](images/mental/about.png)
    
    - **User Login**  
-     ![User Login](images/mental/user-login.png)
+     ![User Login](images/mental/login.png)
 
    - **User Dashboard**  
      ![User Dashboard](images/mental/dashboard.png)
 
    - **Log Mood**  
-     ![Log Mood](images/mental/log-mood.png)
+     ![Log Mood](images/mental/logmood.png)
 
+   - **Journal Entry** 
+     ![Journal Entry](images/mental/journal.png)
+    
 </details>
 
 ---
