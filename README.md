@@ -75,42 +75,120 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 ## My Projects
 
 <details>
-   <summary>Online Store</summary>
+   <summary>Projects</summary>
 
-1. **Project Name:** Online Store  
-   **Description:**  
-   An online firearm store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
+---
 
-   ### Project Images:
-   <details>
-      <summary>Click to view images</summary>
+### 1. **Project Name:** Online Store  
+**Description:**  
+An online firearm store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
 
-      - **Homepage**
-        ![Store Homepage](images/store/homepage.png)
-      
-      - **Login Page**  
-        ![Store Login Page](images/store/login.png)
+#### Project Images:  
+<details>
+   <summary>Click to view images</summary>
 
-   </details>
+   - **Homepage**  
+     ![Store Homepage](images/store/homepage.png)
+   
+   - **Login Page**  
+     ![Store Login Page](images/store/login.png)
 
-   ### Download Images:
-   You can download a zipped file of all project images here:  
-   [Download Project Images](path/to/images.zip)
+   - **Admin Dashboard**  
+     ![Store Admin Dashboard](images/store/dashboard.png)
+
+   - **Items Listing**  
+     ![Store Items Listing](images/store/listing-items.png)
+   
+   - **Add New Item**  
+     ![Store Add New Item](images/store/add-item.png)
+
+   - **Orders Listing**  
+     ![Store Orders Listing](images/store/orders.png)
+   
+   - **Payments Listing**  
+     ![Store Payments Listing](images/store/payments.png)
+
+</details>
+
+---
+
+### 2. **Project Name:** Billing App  
+**Description:**  
+A water billing and customer management system built with PHP and MySQL, designed for efficient billing, record-keeping, and streamlined customer management.
+
+#### Project Images:  
+<details>
+   <summary>Click to view images</summary>
+
+   - **User Login**  
+     ![Billing Login](images/billing/login.png)
+   
+   - **Admin Dashboard**  
+     ![Billing Dashboard](images/billing/dashboard.png)
+
+   - **Listing of Clients**  
+     ![Clients Listing](images/billing/clients.png)
+
+</details>
+
+---
+
+### 3. **Project Name:** AfyaMind  
+**Description:**  
+AfyaMind is a web platform offering accessible and culturally relevant mental health resources for young adults in Kenya. It aims to reduce stigma and provide tools to manage stress and mental health issues.
+
+#### Project Images:  
+<details>
+   <summary>Click to view images</summary>
+
+   - **Homepage**  
+     ![Homepage](images/mental/home.png)
+   
+   - **User Login**  
+     ![User Login](images/mental/user-login.png)
+
+   - **User Dashboard**  
+     ![User Dashboard](images/mental/dashboard.png)
+
+   - **Log Mood**  
+     ![Log Mood](images/mental/log-mood.png)
+
+</details>
+
+---
+
+### 4. **Project Name:** Toyota Supra  
+**Description:**  
+Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s history, explore different models, and browse a gallery of stunning images. Built with HTML, CSS (Bootstrap), and JavaScript, this site offers a modern and engaging experience for car enthusiasts, celebrating the Supra’s legacy and design excellence.
+
+#### Project Images:  
+<details>
+   <summary>Click to view images</summary>
+
+   - **Landing Page**  
+     ![Landing Page](images/supra/homepage.png)
+   
+   - **About Page**  
+     ![About Page](images/supra/aboutpage.png)
+
+   - **Models Page**  
+     ![Models Page 1](images/supra/modelspage.png)  
+     ![Models Page 2](images/supra/modelspage1.png)
+
+   - **Gallery Page**  
+     ![Gallery Page](images/supra/gallery.png)
+
+</details>
 
 </details>
 
 
 
-2. **Billing App**
-  - A water billing and customer management system built with PHP and MySQL, designed for efficient billing, record-keeping, and streamlined customer management.
 
 
-3. **Mental Health Support App**
-  - AfyaMind is a web platform offering accessible and culturally relevant mental health resources for young adults in Kenya. It aims to reduce stigma and provide tools to manage stress and mental health issues.
+  
 
-4. **Toyota Supra**
-  - Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s history, explore different models, and browse a gallery of stunning images. Built with HTML, CSS (Bootstrap), and JavaScript, this site offers a modern and engaging experience for car enthusiasts, celebrating the Supra’s legacy and design excellence.
-</details>
+
 
 ##### Socials
 
