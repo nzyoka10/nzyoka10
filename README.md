@@ -189,7 +189,7 @@ Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s his
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false)`<br/>`
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nzyoka10&theme=radical&hide_border=true) -->
 
@@ -198,11 +198,11 @@ Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s his
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
-[website]: https://nzyoka-developer.com/
+[website]: https://nzyoka-developer.co/
 [YouTube]: https://www.youtube.com/watch?v=rWMuEIcdJP4&ab_channel=Codecademy
-[instagram]: https://www.instagram.com/_byte.bard__
-[linkedin]: https://linkedin.com/in/eric-nzyoka
+[instagram]: https://www.instagram.com/nzyoka10
+[linkedin]: https://linkedin.com/in/ericnzyoka
