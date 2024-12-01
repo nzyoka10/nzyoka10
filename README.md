@@ -80,14 +80,30 @@ A water billing and customer management system built with PHP and MySQL, designe
 <details>
    <summary>Click to view images</summary>
 
-   - **User Login**  
-     ![Billing Login](images/billing/login.png)
+   - **Login page**  
+     ![User Login](images/billing/login.png)
    
    - **Admin Dashboard**  
      ![Billing Dashboard](images/billing/dashboard.png)
 
    - **Listing of Clients**  
      ![Clients Listing](images/billing/clients.png)
+
+   - **New client**
+   ![New Client](images/billing/newclient.png)
+
+  - **Listing of Billing**
+   ![Billing Listing](images/billing/billing.png)
+
+  - **Generate bill**
+   ![New Billing](images/billing/newbill.png)
+
+  - **Reports**
+   ![Reports](images/billing/reports.png)
+
+  - **APP Settings**
+   ![Settings](images/billing/settings.png)
+
 
 </details>
 
