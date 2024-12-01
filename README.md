@@ -73,11 +73,33 @@ I'm a Junior developer from Nairobi, Kenya. I'm really into making cool websites
 
 
 ## My Projects
-<details>
-	
 
-1. **Online Store**
-  - An online firearm store with a userfriendly interface (HTML, CSS, Bootstrap), a secure backend (PythonFlask, MySQL), and secure payments via the Mpesa API.
+<details>
+   <summary>Online Store</summary>
+
+1. **Project Name:** Online Store  
+   **Description:**  
+   An online firearm store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
+
+   ### Project Images:
+   <details>
+      <summary>Click to view images</summary>
+
+      - **Homepage**
+        ![Store Homepage](images/store/homepage.png)
+      
+      - **Login Page**  
+        ![Store Login Page](images/store/login.png)
+
+   </details>
+
+   ### Download Images:
+   You can download a zipped file of all project images here:  
+   [Download Project Images](path/to/images.zip)
+
+</details>
+
+
 
 2. **Billing App**
   - A water billing and customer management system built with PHP and MySQL, designed for efficient billing, record-keeping, and streamlined customer management.
