@@ -41,7 +41,7 @@ Technologies I've been working with recently:
 
 ### 1. **Project Name:** Online Store  
 **Description:**  
-An online firearm store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
+An online store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
 
 #### Project Images:  
 <details>
