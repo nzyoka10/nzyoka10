@@ -34,142 +34,17 @@ Technologies I've been working with recently:
 
 ## 💻 My Projects
 
-<details>
-   <summary>Projects</summary>
+Here’s a well-structured table to display your projects and their details:
 
----
-
-### 1. **Project Name:** Online Store  
-**Description:**  
-An online store with a user-friendly interface built using **HTML**, **CSS**, and **Bootstrap**, a secure backend powered by **Python Flask** and **MySQL**, and integrated secure payments via the **Mpesa API**.
-
-#### Project Images:  
-<details>
-   <summary>Click to view images</summary>
-
-   - **Homepage**  
-     ![Store Homepage](images/store/homepage.png)
-   
-   - **Login Page**  
-     ![Store Login Page](images/store/login.png)
-
-   - **Admin Dashboard**  
-     ![Store Admin Dashboard](images/store/dashboard.png)
-
-   - **Items Listing**  
-     ![Store Items Listing](images/store/listing-items.png)
-   
-   - **Add New Item**  
-     ![Store Add New Item](images/store/add-item.png)
-
-   - **Orders Listing**  
-     ![Store Orders Listing](images/store/orders.png)
-   
-   - **Payments Listing**  
-     ![Store Payments Listing](images/store/payments.png)
-
-</details>
-
----
-
-### 2. **Project Name:** Billing App  
-**Description:**  
-A water billing and customer management system built with PHP and MySQL, designed for efficient billing, record-keeping, and streamlined customer management.
-
-#### Project Images:  
-<details>
-   <summary>Click to view images</summary>
-
-   - **Login page**  
-     ![User Login](images/billing/login.png)
-   
-   - **Admin Dashboard**  
-     ![Billing Dashboard](images/billing/dashboard.png)
-
-   - **Listing of Clients**  
-     ![Clients Listing](images/billing/clients.png)
-
-   - **New client**
-   ![New Client](images/billing/newclient.png)
-
-  - **Listing of Billing**
-   ![Billing Listing](images/billing/billing.png)
-
-  - **Generate bill**
-   ![New Billing](images/billing/newbill.png)
-
-  - **Reports**
-   ![Reports](images/billing/reports.png)
-
-  - **APP Settings**
-   ![Settings](images/billing/settings.png)
+| **Project Name**   | **Description**                                                                                       | **Technologies Used**                        | **Key Features**                                                                                  | **Image Previews**                                                                                                                                                                                                                                                        |
+|---------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Online Store**    | An online store with a user-friendly interface, secure backend, and Mpesa payments integration.       | HTML, CSS, Bootstrap, Python Flask, MySQL   | User-friendly UI, Admin Dashboard, Secure Payments, Order Management                              | - Homepage: ![Homepage](images/store/homepage.png) <br> - Admin Dashboard: ![Dashboard](images/store/dashboard.png) <br> - Payments: ![Payments](images/store/payments.png)                                                                                           |
+| **Billing App**     | A water billing and customer management system for efficient record-keeping and streamlined billing. | PHP, MySQL                                  | Client Management, Billing System, Reports, Settings                                              | - Login Page: ![Login](images/billing/login.png) <br> - Dashboard: ![Dashboard](images/billing/dashboard.png) <br> - Generate Bill: ![Generate Bill](images/billing/newbill.png)                                                                                       |
+| **AfyaMind**        | A web platform offering culturally relevant mental health resources and tools to manage stress.      | HTML, CSS, Bootstrap, Python Flask, SQLite  | Mood Tracking, Journaling, Mental Health Resources                                                | - Homepage: ![Homepage](images/mental/homepage.png) <br> - Log Mood: ![Log Mood](images/mental/logmood.png) <br> - Journal Entry: ![Journal](images/mental/journal.png)                                                                                                |
+| **Toyota Supra**    | A fan site showcasing the Toyota Supra’s history, models, and a stunning gallery.                    | HTML, CSS (Bootstrap), JavaScript           | Landing Page, Gallery, Models Page, About Page                                                    | - Landing Page: ![Landing](images/supra/homepage.png) <br> - Models Page: ![Models](images/supra/modelspage.png) <br> - Gallery Page: ![Gallery](images/supra/gallery.png)                                                                                             |
 
 
-</details>
-
----
-
-### 3. **Project Name:** AfyaMind  
-**Description:**  
-AfyaMind is a web platform offering accessible and culturally relevant mental health resources for young adults in Kenya. It aims to reduce stigma and provide tools to manage stress and mental health issues.
-
-#### Project Images:  
-<details>
-   <summary>Click to view images</summary>
-
-   - **Homepage**  
-     ![Homepage](images/mental/homepage.png)
-     
-   - **About page**
-     ![About page](images/mental/about.png)
-   
-   - **User Login**  
-     ![User Login](images/mental/login.png)
-
-   - **User Dashboard**  
-     ![User Dashboard](images/mental/dashboard.png)
-
-   - **Log Mood**  
-     ![Log Mood](images/mental/logmood.png)
-
-   - **Journal Entry** 
-     ![Journal Entry](images/mental/journal.png)
-    
-</details>
-
----
-
-### 4. **Project Name:** Toyota Supra  
-**Description:**  
-Welcome to the ultimate Toyota Supra fan site! Discover the iconic Supra’s history, explore different models, and browse a gallery of stunning images. Built with HTML, CSS (Bootstrap), and JavaScript, this site offers a modern and engaging experience for car enthusiasts, celebrating the Supra’s legacy and design excellence.
-
-#### Project Images:  
-<details>
-   <summary>Click to view images</summary>
-
-   - **Landing Page**  
-     ![Landing Page](images/supra/homepage.png)
-   
-   - **About Page**  
-     ![About Page](images/supra/aboutpage.png)
-
-   - **Models Page**  
-     ![Models Page 1](images/supra/modelspage.png)  
-     ![Models Page 2](images/supra/modelspage1.png)
-
-   - **Gallery Page**  
-     ![Gallery Page](images/supra/gallery.png)
-
-</details>
-
-</details>
-
-
-
-
-
-  
-
+<!-- -------------------------------------------------------------- -->
 
 
 ##### Socials
