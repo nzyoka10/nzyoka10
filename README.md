@@ -91,10 +91,7 @@ Responsive school website with hero, news, and academic sections.
 
 🔗 [Live Demo](https://bright001.netlify.app)  
 🔗 [GitHub Repo](https://github.com/nzyoka10/brightminds-school-site)
-  
 
-
-### 📈 Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake-dark.svg" />
