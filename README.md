@@ -48,7 +48,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧠 Projects I'm Proud Of (with GitHub Links)
+### 🧠 Projects
 
 #### 1. 📊 Bank Marketing API  
 *Node.js • Express.js • PostgreSQL*  
