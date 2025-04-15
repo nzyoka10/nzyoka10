@@ -48,28 +48,51 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🧠 Projects I'm Proud Of (with GitHub Links)
 
+#### 1. 📊 Bank Marketing API  
+*Node.js • Express.js • PostgreSQL*  
+A RESTful API to manage customer data and marketing campaigns.  
+✅ Features:
+- CRUD operations
+- Indexed queries for fast responses
+- Swagger documentation
+
+🔗 [GitHub Repo](https://github.com/nzyoka10/bank-marketing-api)
 
 ---
 
-### 🧠 Projects I'm Proud Of:
-
-##### 🧘🏽 AfyaMind — Mental Health Support Platform
-*Flask • SQLite • HTML/CSS • JavaScript*  
-✅ Features mood tracking, journaling, and AI chatbot  
-🌐 Built with love for mental wellness
-
-##### 💸 Billing System
+#### 2. 💸 Billing System  
 *PHP • MySQL • Bootstrap*  
-📊 Role-based app to manage billing, payments, and reporting  
-💾 Backend with secure login and detailed revenue tracking
+A role-based web billing app for businesses.  
+✅ Features:
+- Client login & role access
+- Revenue and transaction reports
+- Print-ready invoice output
 
-##### 🏫 BrightMinds School Website
-*HTML • CSS • JavaScript*  
-📚 A responsive school portal with news, academics, and contact info  
-🔗 [Live Demo](https://bright001.netlify.app)
+🔗 [GitHub Repo](https://github.com/nzyoka10/billing-system)
 
 ---
+
+#### 3. 🏪 Online Store (E-Commerce Platform)  
+*Flask • MySQL • Bootstrap*  
+🛍️ A fully responsive e-commerce platform with:
+- Product management
+- User login & checkout flow
+- Stripe payments
+
+🔗 [GitHub Repo](https://github.com/nzyoka10/online-store)
+
+---
+
+#### 4. 🏫 BrightMinds School Website  
+*HTML • CSS (Bootstrap) • JavaScript*  
+Responsive school website with hero, news, and academic sections.
+
+🔗 [Live Demo](https://bright001.netlify.app)  
+🔗 [GitHub Repo](https://github.com/nzyoka10/brightminds-school-site)
+  
+
 
 ### 📈 Stats
 
@@ -86,7 +109,4 @@
 - 💼 LinkedIn: [Get in touch](https://linkedin.com/in/ericnzyoka)  
 - 💻 GitHub: [Portfolio](https://#!)
 
----
-
-> “Keep pushing code — your GitHub tells your story louder than a GPA ever will.” – *Eric*
 
