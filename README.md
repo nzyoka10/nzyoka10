@@ -1,83 +1,93 @@
-### Jambo! I'm Eric 👋
+<img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-###
+## 👋🏽 Hello World, I'm Eric Nzyoka — Fullstack Developer & Cloud Enthusiast 🌍
 
-<img align="right" height="200" src="https://app.digifunzi.com/images/16893490130660efe82fa3da42ed56eef013171835.gif"  />
+🎓 Recent Computer Science graduate  
+💻 Fullstack developer passionate about building scalable backend systems and cloud-powered solutions  
+☁️ Skilled in Python, PHP, JavaScript, MySQL, Firebase, and cloud infrastructure  
+🚀 Always building, learning, and looking for opportunities to contribute to impactful software projects
 
+---
+### 💻 Tech Stack:
 
-I'm a **Software Developer** from **Nairobi, Kenya** with a passion for creating dynamic websites and web applications.  
-
-- 🔭 **What I'm working on:** Learning **Kotlin** for mobile development to expand my skills.  
-- 🌱 **What I'm good at:** Building robust **backends** with **Python** and frameworks like Flask and Django.  
-- 💻 **What I love:** Tackling real-world problems with clean, scalable code.  
-- ⚡ **Fun fact:** I'm always super excited and ready to learn!  
-- 📫 **Let's connect:** Find me on [Instagram][Instagram].  
-
-
-
-### 💻 Technical Skills:
-
-Technologies I've been working with recently:
-
-| **Frontend** | **Backend** | **Databases** | **Other Tools** |
-|--------------|-------------|---------------|-----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" /> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" /> MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /> Git |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /> CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" /> PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" /> SQLite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" /> GitHub |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" /> Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" /> Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" /> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" /> VSCode |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" /> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" /> Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" /> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" /> Linux |
-|  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" /> Firebase | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis logo" /> Redis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure logo" /> Azure |
-|  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" /> Kotlin |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS logo" /> AWS |
-|  | <img src="https://www.pngitem.com/pimgs/m/463-4634376_insomnia-rest-client-icon-hd-png-download.png" height="30" alt="Insomnia API logo" /> Insomnia |  |  |
-
-
-
-
-## 💻 My Projects
-
-Here’s a well-structured table to display your projects and their details:
-
-| **Project Name**   | **Description**                                                                                       | **Technologies Used**                        | **Key Features**                                                                                  | **Image Previews**                                                                                                                                                                                                                                                        |
-|---------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Online Store**    | An online store with a user-friendly interface, secure backend, and Mpesa payments integration.       | HTML, CSS, Bootstrap, Python Flask, MySQL   | User-friendly UI, Admin Dashboard, Secure Payments, Order Management                              | - Homepage: ![Homepage](images/store/homepage.png) <br> - Admin Dashboard: ![Dashboard](images/store/dashboard.png) <br> - Payments: ![Payments](images/store/payments.png)                                                                                           |
-| **Billing App**     | A water billing and customer management system for efficient record-keeping and streamlined billing. | PHP, MySQL                                  | Client Management, Billing System, Reports, Settings                                              | - Login Page: ![Login](images/billing/login.png) <br> - Dashboard: ![Dashboard](images/billing/dashboard.png) <br> - Generate Bill: ![Generate Bill](images/billing/newbill.png)                                                                                       |
-| **AfyaMind**        | A web platform offering culturally relevant mental health resources and tools to manage stress.      | HTML, CSS, Bootstrap, Python Flask, SQLite  | Mood Tracking, Journaling, Mental Health Resources                                                | - Homepage: ![Homepage](images/mental/homepage.png) <br> - Log Mood: ![Log Mood](images/mental/logmood.png) <br> - Journal Entry: ![Journal](images/mental/journal.png)                                                                                                |
-| **Toyota Supra**    | A fan site showcasing the Toyota Supra’s history, models, and a stunning gallery.                    | HTML, CSS (Bootstrap), JavaScript           | Landing Page, Gallery, Models Page, About Page                                                    | - Landing Page: ![Landing](images/supra/homepage.png) <br> - Models Page: ![Models](images/supra/modelspage.png) <br> - Gallery Page: ![Gallery](images/supra/gallery.png)                                                                                             |
-
-
-<!-- -------------------------------------------------------------- -->
-
-
-##### Socials
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="18" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="18" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="18" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="18" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="30" height="18" alt="hackerrank logo"  />
-</div>
-
-###
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Blockchain](https://img.shields.io/badge/blockchain-121212?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![CMS](https://img.shields.io/badge/CMS-3A3A3A?style=for-the-badge&logo=ghost&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<!-- Hosting Platforms -->
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+### 🧠 Projects I'm Proud Of:
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nzyoka10&theme=radical&hide_border=true) -->
+##### 🧘🏽 AfyaMind — Mental Health Support Platform
+*Flask • SQLite • HTML/CSS • JavaScript*  
+✅ Features mood tracking, journaling, and AI chatbot  
+🌐 Built with love for mental wellness
 
-</details>
+##### 💸 Billing System
+*PHP • MySQL • Bootstrap*  
+📊 Role-based app to manage billing, payments, and reporting  
+💾 Backend with secure login and detailed revenue tracking
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+##### 🏫 BrightMinds School Website
+*HTML • CSS • JavaScript*  
+📚 A responsive school portal with news, academics, and contact info  
+🔗 [Live Demo](https://bright001.netlify.app)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzyoka10&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-</details>
+### 📈 GitHub Stats
 
-[website]: https://nzyoka-developer.co/
-[YouTube]: https://www.youtube.com/watch?v=rWMuEIcdJP4&ab_channel=Codecademy
-[instagram]: https://www.instagram.com/nzyoka10
-[linkedin]: https://linkedin.com/in/ericnzyoka
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+---
+
+### 📫 Let's Connect!
+
+- 💼 LinkedIn: [Get in touch](https://linkedin.com/in/ericnzyoka)  
+- 💻 GitHub: [Portfolio](https://#!)
+
+---
+
+> “Keep pushing code — your GitHub tells your story louder than a GPA ever will.” – *Eric*
+
