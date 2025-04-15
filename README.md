@@ -58,7 +58,7 @@ A RESTful API to manage customer data and marketing campaigns.
 - Indexed queries for fast responses
 - Swagger documentation
 
-🔗 [GitHub Repo](https://github.com/nzyoka10/bank-marketing-api)
+🔗 [GitHub Repo](https://github.com/nzyoka10/database-optimization-project)
 
 ---
 
