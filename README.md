@@ -70,7 +70,7 @@ A role-based web billing app for businesses.
 - Revenue and transaction reports
 - Print-ready invoice output
 
-🔗 [GitHub Repo](https://github.com/nzyoka10/billing-system)
+🔗 [GitHub Repo](https://github.com/nzyoka10/wbcms)
 
 ---
 
@@ -79,7 +79,7 @@ A role-based web billing app for businesses.
 🛍️ A fully responsive e-commerce platform with:
 - Product management
 - User login & checkout flow
-- Stripe payments
+- Mpesa payments
 
 🔗 [GitHub Repo](https://github.com/nzyoka10/online-store)
 
