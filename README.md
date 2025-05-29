@@ -3,16 +3,16 @@
 ## Hi 👋, I'm Eric Nzyoka — Fullstack Developer & Cloud Enthusiast
 
 💡 Entry-level Software Engineer & Data Analyst
+
 🔧 Skilled in Python, PHP, SQL, Docker, Google Cloud, Power BI (Basic)
+
 🧠 Passionate about backend systems, APIs and DevOps workflows  
+
 📊 Love solving real-world problems with data and code
 
 🌱 Currently exploring: CI/CD, Kubernetes, Data Visualisation
 
 ---
----
-
-### 💻 Tech Stack:
 
 #### 🖥️ **Programming & Scripting**
 
