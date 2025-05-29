@@ -4,7 +4,7 @@
 
 💡 Entry-level Software Engineer & Data Analyst
 
-🔧 Skilled in Python, PHP, SQL, Docker, Google Cloud, Power BI (Basic)
+🔧 Skilled in Python, PHP, SQL, Docker, Google Cloud, Excel, Power BI (Basic)
 
 🧠 Passionate about backend systems, APIs and DevOps workflows  
 
