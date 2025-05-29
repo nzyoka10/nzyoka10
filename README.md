@@ -76,7 +76,10 @@
 
 #### 1. 📊 Bank Marketing API  
 *Node.js • Express.js • PostgreSQL*  
-A RESTful API to manage customer data and marketing campaigns.  
+- A RESTful API to manage customer data and marketing campaigns.  
+
+![Bank API](images/BankAPI.png)
+
 ✅ Features:
 - CRUD operations
 - Indexed queries for fast responses
@@ -88,7 +91,10 @@ A RESTful API to manage customer data and marketing campaigns.
 
 #### 2. 💸 Billing System  
 *PHP • MySQL • Bootstrap*  
-A role-based web billing app for businesses.  
+- A role-based web billing app for businesses.  
+
+![Bank API](images/Billing.png)
+
 ✅ Features:
 - Client login & role access
 - Revenue and transaction reports
@@ -98,9 +104,26 @@ A role-based web billing app for businesses.
 
 ---
 
-#### 3. 🏪 Online Store (E-Commerce Platform)  
+#### 3. 🏫 School Website  
+*HTML • CSS (Bootstrap) • JavaScript*  
+- A school website to showcase school activites
+
+![School Website](images/School.png)
+
+✅ Features:
+- Responsive design
+- Hero section with background
+- News section with scrolling effect
+- Academic section with accordion menu
+- Gallary and Contact form 
+
+🔗 [Live Demo](https://bright001.netlify.app)  
+
+---
+
+#### 4. 🏪 Online Store (E-Commerce Platform)  
 *Flask • MySQL • Bootstrap*  
-🛍️ A fully responsive e-commerce platform with:
+- A fully responsive e-commerce platform with:
 - Product management
 - User login & checkout flow
 - Mpesa payments
@@ -109,12 +132,6 @@ A role-based web billing app for businesses.
 
 ---
 
-#### 4. 🏫 BrightMinds School Website  
-*HTML • CSS (Bootstrap) • JavaScript*  
-Responsive school website with hero, news, and academic sections.
-
-🔗 [Live Demo](https://bright001.netlify.app)  
-🔗 [GitHub Repo](https://github.com/nzyoka10/brightminds-school-site)
 
 
 <picture>
