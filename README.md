@@ -76,9 +76,13 @@ A Human Resources management system built specifically for Small and Medium Ente
 
 > Live demo: [View](https://hredge-v1.netlify.app/)
 
+ - Landing page
 ![HREdge Landing-page](./images/hr-edge/hr-edge.png)
 
+ - Admin Dashboard
 ![HREdge Dashboard](./images/hr-edge/admin-dashboard.png)
+ - Employee Dashboard
+![HREdge Dashboard](./images/hr-edge/employee-dashboard.png)
 
 <details>
   <summary>Learn more about HREdge</summary>
