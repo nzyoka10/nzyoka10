@@ -188,7 +188,7 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 ![MtaaniFix Landing Page](./images/mtaani-fix/Landing-page.png)
 
 ### WhatsApp AI Bot Interface  
-![WhatsApp Bot](./images/mtaani-fix/whatsapp-bot.png)
+![WhatsApp Bot](./images/mtaani-fix/whatsApp-bot.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](./images/mtaani-fix/admin-dashboard.png)
