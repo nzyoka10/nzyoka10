@@ -298,7 +298,7 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 -----
 
 
-#### 1. 📊 Bank Marketing API  
+#### 3. Bank Marketing API  
 *Node.js • Express.js • PostgreSQL*  
 - A RESTful API to manage customer data and marketing campaigns.  
 
@@ -313,7 +313,7 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 
 ---
 
-#### 2. 💸 Billing System  
+#### 4.Customer Management & Billing System  
 *PHP • MySQL • Bootstrap*  
 - A role-based web billing app for businesses.  
 
@@ -328,7 +328,7 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 
 ---
 
-#### 3. 🏫 School Website  
+#### 5. School Website  
 *HTML • CSS (Bootstrap) • JavaScript*  
 - A school website to showcase school activites
 
@@ -345,7 +345,7 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 
 ---
 
-#### 4. 🏪 Online Store (E-Commerce Platform)  
+#### 6. 🏪 Online Store (E-Commerce Platform)  
 *Flask • MySQL • Bootstrap*  
 - A fully responsive e-commerce platform with:
 - Product management
