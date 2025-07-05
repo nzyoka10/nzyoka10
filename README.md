@@ -74,7 +74,7 @@
 A Human Resources management system built specifically for Small and Medium Enterprises in Kenya. 
 - HREdge streamlines HR processes with modern technology while addressing local business needs and compliance requirements.
 
-> Live demo: [View](https://hredge-v1.netlify.app/)
+> Live demo: [View](https://smes-edgehr.netlify.app/)
 
  - Landing page
 ![HREdge Landing-page](./images/hr-edge/hr-edge.png)
