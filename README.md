@@ -2,7 +2,7 @@
 
 ## 👋🏽 Hello World, I'm Eric Nzyoka — Fullstack Developer & Cloud Enthusiast 🌍
 
-🎓 Recent Computer Science graduate  
+🎓 Software Engineering | `MERN` | 
 💻 Fullstack developer passionate about building scalable backend systems and cloud-powered solutions  
 ☁️ Skilled in Python, PHP, JavaScript, MySQL, Firebase, and cloud infrastructure  
 🚀 Always building, learning, and looking for opportunities to contribute to impactful software projects
@@ -49,6 +49,83 @@
 ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧠 Projects
+
+# HREdge - Smart HR Platform for Kenyan SMEs
+
+A Human Resources management system built specifically for Small and Medium Enterprises in Kenya. 
+- HREdge streamlines HR processes with modern technology while addressing local business needs and compliance requirements.
+
+> Live demo: [View](https://hredge-v1.netlify.app/)
+
+![HREdge Landing-page](./images/hr-edge/hr-edge.png)
+
+![HREdge Dashboard](./images/hr-edge/admin-dashboard.png)
+
+<details>
+  <summary>Learn more about HREdge</summary>
+
+
+## 🌟 Features
+
+### 🏢 Admin Dashboard
+- Real-time analytics and KPI tracking
+- Employee overview with department insights
+- Pending approvals management
+- Quick action shortcuts
+
+### 👥 Employee Management
+- Comprehensive employee profiles
+- Department-wise organization
+- Advanced search and filtering
+- Employee status tracking
+
+### 💰 Smart Payroll System
+- Automated salary calculations
+- Kenyan tax compliance (PAYE, NHIF, NSSF)
+- M-Pesa integration for direct payments
+- Downloadable payslips
+- Payroll reporting and analytics
+
+### 📅 Leave Management
+- Digital leave applications
+- Approval workflow system
+- Leave balance tracking
+- SMS/WhatsApp notifications
+- Multiple leave types (Annual, Sick, Maternity, Emergency)
+
+### 🤖 AI-Powered Recruitment
+- Intelligent CV parsing
+- Automated candidate scoring
+- Skills-based matching
+- Application tracking system
+- Interview scheduling
+
+### 💬 HR Chatbot
+- 24/7 employee support
+- Instant answers to HR queries
+- Payroll information lookup
+- Leave balance inquiries
+- Policy guidance
+
+### 📱 Mobile-First Design
+- Responsive web interface
+- SMS integration
+- WhatsApp notifications
+- Progressive Web App capabilities
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 18 + TypeScript
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **Icons:** Lucide React
+- **Build Tool:** Vite
+- **State Management:** React Context API
+
+
+</details>
+
+
 
 #### 1. 📊 Bank Marketing API  
 *Node.js • Express.js • PostgreSQL*  
