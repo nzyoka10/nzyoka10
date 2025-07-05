@@ -9,9 +9,6 @@
 📈 Constantly exploring new technologies, contributing to impactful projects, and solving real-world problems with code.
 
 ---
-
-
----
 #### 🖥️ **Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -100,7 +97,6 @@
 
 ---
 
-
 ### 🧠 Projects
 
 # HREdge - Smart HR Platform for Kenyan SMEs
@@ -120,7 +116,6 @@ A Human Resources management system built specifically for Small and Medium Ente
 
 <details>
   <summary>Learn more about HREdge</summary>
-
 
 ## 🌟 Features
 
@@ -179,9 +174,118 @@ A Human Resources management system built specifically for Small and Medium Ente
 - **Build Tool:** Vite
 - **State Management:** React Context API
 
+</details>
+
+---
+
+# MtaaniFix - AI-Powered Service Booking Platform
+
+An intelligent platform connecting Kenyans with verified skilled workers through WhatsApp integration and AI-powered matching. Revolutionizing how people find and book trusted professionals across Kenya.
+
+> Live demo: [View Demo](https://mtaanifix-ke.netlify.app/) | WhatsApp Bot: [Try Demo](https://mtaani-fix.netlify.app/whatsapp-bot)
+
+### Landing Page
+![MtaaniFix Landing Page](./images/mtaani-fix/Landing-page.png)
+
+### WhatsApp AI Bot Interface  
+![WhatsApp Bot](./images/mtaani-fix/whatsapp-bot.png)
+
+### Admin Dashboard
+![Admin Dashboard](./images/mtaani-fix/admin-dashboard.png)
+
+### Fundi (Service Provider) Dashboard
+![Fundi Dashboard](./images/mtaani-fix/fundi-dashboard.png)
+
+### Customer Dashboard
+![Customer Dashboard](./images/mtaani-fix/customer-dashboard.png)
+
+<details>
+  <summary>Learn more about MtaaniFix</summary>
+
+## Features
+
+### AI-Powered WhatsApp Bot
+- Natural language processing for service requests
+- Intelligent fundi matching based on location and ratings
+- Real-time booking confirmations and updates
+- 24/7 automated customer support
+- Smart conversation flow with context awareness
+
+### Comprehensive Service Categories
+- **Plumbing:** Kitchen/bathroom repairs, pipe installation, drainage
+- **Electrical:** Wiring, solar installation, power systems
+- **Mechanics:** Vehicle repairs, diagnostics, maintenance
+- **ICT Support:** Computer repair, network setup, software installation
+
+### Advanced Fundi Management
+- Rigorous verification and background checking
+- Skills assessment and specialty certification
+- Real-time availability tracking
+- Performance analytics with detailed ratings
+- Earnings dashboard with commission transparency
+
+### Smart Booking System
+- AI-powered matching algorithm
+- GPS-based location matching
+- Dynamic pricing based on demand
+- Automated scheduling with conflict resolution
+- Multi-channel notifications (SMS, WhatsApp, Email)
+
+###  Payment Integration
+- M-Pesa integration for instant payments
+- Transparent pricing with detailed breakdowns
+- Automatic commission calculations
+- Secure escrow system
+- Digital receipts and transaction history
+
+### Business Intelligence Dashboard
+- Real-time KPIs and performance metrics
+- Revenue analytics with trend analysis
+- Geographic service distribution mapping
+- Customer satisfaction tracking
+- Predictive analytics for demand forecasting
+
+### Trust & Safety Features
+- Comprehensive background verification
+- Insurance coverage options
+- Dispute resolution system
+- Quality assurance protocols
+- Emergency support and escalation
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React 18 + TypeScript** for type-safe development
+- **Tailwind CSS** for responsive styling
+- **React Router DOM** for navigation
+- **Lucide React** for iconography
+- **Recharts** for data visualizations
+- **Vite** for fast development builds
+
+### Backend & Database
+- **Supabase** as Backend-as-a-Service
+- **PostgreSQL** with Row Level Security
+- **Real-time subscriptions** for live updates
+- **Edge Functions** with Deno runtime
+- **Automated backups** and recovery
+
+### AI & Integrations
+- **Claude AI API** for natural language processing
+- **WhatsApp Business API** for messaging
+- **Africa's Talking SMS** for notifications
+- **M-Pesa API** for mobile payments
+- **Google Maps API** for location services
+
+### DevOps
+- **Netlify** for deployment and CDN
+- **GitHub Actions** for CI/CD
+- **Environment-based configurations**
+- **Performance monitoring**
+
 
 </details>
 
+-----
 
 
 #### 1. 📊 Bank Marketing API  
