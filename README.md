@@ -95,18 +95,20 @@
 
 
 
----
 
-### 🧠 Projects
+## 🧠 Projects
 
-# HREdge - Smart HR Platform for Kenyan SMEs
+### 1. ``HREdge`` - Smart HR Platform for Kenyan SMEs
 
 A Human Resources management system built specifically for Small and Medium Enterprises in Kenya. 
 - HREdge streamlines HR processes with modern technology while addressing local business needs and compliance requirements.
 
 > Live demo: [View](https://smes-edgehr.netlify.app/)
 
- - Landing page
+<details>
+  <summary>HREdge - UI Screenshots</summary>
+
+   - Landing page
 ![HREdge Landing-page](./images/hr-edge/hr-edge.png)
 
  - Admin Dashboard
@@ -114,52 +116,54 @@ A Human Resources management system built specifically for Small and Medium Ente
  - Employee Dashboard
 ![HREdge Dashboard](./images/hr-edge/employee-dashboard.png)
 
+</details>
+
 <details>
   <summary>Learn more about HREdge</summary>
 
-## 🌟 Features
+## Features
 
-### 🏢 Admin Dashboard
+### Admin Dashboard
 - Real-time analytics and KPI tracking
 - Employee overview with department insights
 - Pending approvals management
 - Quick action shortcuts
 
-### 👥 Employee Management
+### Employee Management
 - Comprehensive employee profiles
 - Department-wise organization
 - Advanced search and filtering
 - Employee status tracking
 
-### 💰 Smart Payroll System
+### Smart Payroll System
 - Automated salary calculations
 - Kenyan tax compliance (PAYE, NHIF, NSSF)
 - M-Pesa integration for direct payments
 - Downloadable payslips
 - Payroll reporting and analytics
 
-### 📅 Leave Management
+### Leave Management
 - Digital leave applications
 - Approval workflow system
 - Leave balance tracking
 - SMS/WhatsApp notifications
 - Multiple leave types (Annual, Sick, Maternity, Emergency)
 
-### 🤖 AI-Powered Recruitment
+### AI-Powered Recruitment
 - Intelligent CV parsing
 - Automated candidate scoring
 - Skills-based matching
 - Application tracking system
 - Interview scheduling
 
-### 💬 HR Chatbot
+### HR Chatbot
 - 24/7 employee support
 - Instant answers to HR queries
 - Payroll information lookup
 - Leave balance inquiries
 - Policy guidance
 
-### 📱 Mobile-First Design
+### Mobile-First Design
 - Responsive web interface
 - SMS integration
 - WhatsApp notifications
@@ -176,14 +180,18 @@ A Human Resources management system built specifically for Small and Medium Ente
 
 </details>
 
----
 
-# MtaaniFix - AI-Powered Service Booking Platform
+
+### 2. MtaaniFix - AI-Powered Service Booking Platform
 
 An intelligent platform connecting Kenyans with verified skilled workers through WhatsApp integration and AI-powered matching. Revolutionizing how people find and book trusted professionals across Kenya.
 
 > Live demo: [View Demo](https://mtaanifix-ke.netlify.app/) | WhatsApp Bot: [Try Demo](https://mtaani-fix.netlify.app/whatsapp-bot)
 
+<details>
+  <summary>MtaaniFix - UI Screenshots</summary>
+
+  
 ### Landing Page
 ![MtaaniFix Landing Page](./images/mtaani-fix/Landing-page.png)
 
@@ -198,6 +206,8 @@ An intelligent platform connecting Kenyans with verified skilled workers through
 
 ### Customer Dashboard
 ![Customer Dashboard](./images/mtaani-fix/customer-dashboard.png)
+
+</details>
 
 <details>
   <summary>Learn more about MtaaniFix</summary>
