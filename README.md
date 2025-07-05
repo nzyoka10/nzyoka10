@@ -125,7 +125,7 @@ A Human Resources management system built specifically for Small and Medium Ente
 
 
 
-### 2. MtaaniFix - AI-Powered Service Booking Platform
+### 2. ``MtaaniFix`` - AI-Powered Service Booking Platform
 
 An intelligent platform connecting Kenyans with verified skilled workers through WhatsApp integration and AI-powered matching. Revolutionizing how people find and book trusted professionals across Kenya.
 
