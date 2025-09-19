@@ -1,320 +1,151 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-## 👋 Hi there, I'm **Eric Nzyoka**  
+# 👋 Hi, I'm **Eric Nzyoka**  
 ### 💻 Fullstack Developer | ☁️ Cloud Enthusiast | 🚀 MERN
 
-🎓 Trained in Software Engineering with a strong foundation in modern development stacks including the **MERN** stack.  
-🛠️ Passionate about building robust, scalable, and secure backend systems with seamless frontend integration.  
-☁️ Proficient in **Python**, **PHP**, **JavaScript**, **MySQL**, **Firebase**, and deploying solutions on modern cloud platforms.  
-📈 Constantly exploring new technologies, contributing to impactful projects, and solving real-world problems with code.
+🎓 Software Engineering graduate with a strong foundation in modern development stacks, especially the **MERN** stack.  
+🛠️ Skilled in building **robust, scalable, and secure backend systems** with seamless frontend integration.  
+☁️ Experienced in **Python, PHP, JavaScript, MySQL, Firebase**, and cloud deployment (GCP, Azure).  
+📈 Always exploring new technologies, delivering impactful projects, and solving real-world problems with code.  
 
 ---
 
 ## 🧰 Tech Stack
 
-| 🖥️ Programming & Scripting | ⚛️ Frontend Development | 🌐 Backend Development | 🛠️ Support & Networking |
-|----------------------------|--------------------------|-------------------------|-----------------------------------|
-| ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF5733?style=for-the-badge&logo=gnometerminal&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) | ![Device Config](https://img.shields.io/badge/Device%20Config-0066CC?style=for-the-badge&logo=windows&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![System Install](https://img.shields.io/badge/System%20Install-444444?style=for-the-badge&logo=linux&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) | ![Wi-Fi Setup](https://img.shields.io/badge/LAN%2FWiFi%20Setup-00A8E8?style=for-the-badge&logo=wifi&logoColor=white) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![Firewalls](https://img.shields.io/badge/Firewalls-D72638?style=for-the-badge&logo=fortinet&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |  | ![User Accounts](https://img.shields.io/badge/User%20Accounts-00796B?style=for-the-badge&logo=linuxfoundation&logoColor=white) |
+### 🔹 Programming & Development
+| Languages | Frontend | Backend | IT Support |
+|-----------|----------|---------|------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF5733?style=for-the-badge&logo=gnometerminal&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Device Config](https://img.shields.io/badge/Device%20Config-0066CC?style=for-the-badge&logo=windows&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![System Install](https://img.shields.io/badge/System%20Install-444444?style=for-the-badge&logo=linux&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) | ![Wi-Fi](https://img.shields.io/badge/LAN%2FWiFi%20Setup-00A8E8?style=for-the-badge&logo=wifi&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![Firewalls](https://img.shields.io/badge/Firewalls-D72638?style=for-the-badge&logo=fortinet&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |  | ![User Accounts](https://img.shields.io/badge/User%20Accounts-00796B?style=for-the-badge&logo=linuxfoundation&logoColor=white) |
 
-| 🗃️ Databases & Services | 🔧 Development Tools | ☁️ Cloud & DevOps | 🌍 Hosting & Deployment |
-|--------------------------|----------------------|-------------------|--------------------------|
-| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-3E3E3E?style=for-the-badge&logo=githubactions&logoColor=white) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  | ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |  |  |
-| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) |  |  |
+### 🔹 Databases, Tools & Cloud
+| Databases | Tools | Cloud & DevOps | Hosting & Deployment |
+|-----------|-------|----------------|----------------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-3E3E3E?style=for-the-badge&logo=githubactions&logoColor=white) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
+| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  | ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  |  |
 
-| 💰 FinTech & Payments | 🤖 AI & Machine Learning | 📱 Mobile & Messaging | 🧩 Other Tools |
-|------------------------|--------------------------|------------------------|----------------|
-| ![M-Pesa](https://img.shields.io/badge/M--Pesa-00D632?style=for-the-badge&logo=safaricom&logoColor=white) | ![AI Integration](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Payment APIs](https://img.shields.io/badge/Payment%20APIs-0052CC?style=for-the-badge&logo=paypal&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![SMS API](https://img.shields.io/badge/SMS%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
-| ![Tax Calculations](https://img.shields.io/badge/Tax%20Calculations-FF6B35?style=for-the-badge&logo=calculator&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![CMS](https://img.shields.io/badge/CMS-3A3A3A?style=for-the-badge&logo=ghost&logoColor=white) |
-|  |  |  | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
-|  |  |  | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-|  |  |  | ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white) |
+### 🔹 AI, FinTech & Other Skills
+| FinTech & Payments | AI & ML | Mobile & Messaging | Other Tools |
+|--------------------|---------|--------------------|-------------|
+| ![M-Pesa](https://img.shields.io/badge/M--Pesa-00D632?style=for-the-badge&logo=safaricom&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| ![Payment APIs](https://img.shields.io/badge/Payment_APIs-0052CC?style=for-the-badge&logo=paypal&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![SMS API](https://img.shields.io/badge/SMS_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+|  | ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![Figma](https://img.shields.io/badge/UI%2FUX-Figma-FF61F6?style=for-the-badge&logo=figma&logoColor=white) |
 
+---
 
+## 🧠 Featured Projects
 
-## 🧠 Projects
+### 1️⃣ **HREdge – Smart HR Platform for Kenyan SMEs**
+💼 A Human Resources platform designed for SMEs in Kenya.  
+🚀 Features: Payroll (with M-Pesa), AI recruitment, leave management, chatbot support, and mobile-first design.  
 
-### 1. ``HREdge`` - Smart HR Platform for Kenyan SMEs
-
-A Human Resources management system built specifically for Small and Medium Enterprises in Kenya. 
-- HREdge streamlines HR processes with modern technology while addressing local business needs and compliance requirements.
-
-> Live demo: [View Demo](https://smes-edgehr.netlify.app/)
+🔗 [Live Demo](https://smes-edgehr.netlify.app/)  
 
 <details>
-  <summary>HREdge - UI Screenshots</summary>
+  <summary>Project UI images</summary>
 
-   - Landing page
-![HREdge Landing-page](./images/hr-edge/hr-edge.png)
-
- - Admin Dashboard
-![HREdge Dashboard](./images/hr-edge/admin-dashboard.png)
- - Employee Dashboard
-![HREdge Dashboard](./images/hr-edge/employee-dashboard.png)
+![Landing](./images/hr-edge/hr-edge.png)  
+![Admin Dashboard](./images/hr-edge/admin-dashboard.png)  
+![Employee Dashboard](./images/hr-edge/employee-dashboard.png)  
 
 </details>
 
+---
+
+### 2️⃣ **MtaaniFix – AI-Powered Service Booking Platform**
+🔧 A platform connecting Kenyans with verified fundis via WhatsApp + AI matching.  
+🚀 Features: AI WhatsApp bot, GPS-based booking, M-Pesa payments, dashboards for Admins, Fundis & Customers.  
+
+🔗 [Live Demo](https://mtaanifix-ke.netlify.app/) | [WhatsApp Bot](https://mtaani-fix.netlify.app/whatsapp-bot)  
+
 <details>
-  <summary>Learn more about HREdge</summary>
+  <summary> Project UI images</summary>
 
-## Features
-
-### Admin Dashboard
-- Real-time analytics and KPI tracking
-- Employee overview with department insights
-- Pending approvals management
-- Quick action shortcuts
-
-### Employee Management
-- Comprehensive employee profiles
-- Department-wise organization
-- Advanced search and filtering
-- Employee status tracking
-
-### Smart Payroll System
-- Automated salary calculations
-- Kenyan tax compliance (PAYE, NHIF, NSSF)
-- M-Pesa integration for direct payments
-- Downloadable payslips
-- Payroll reporting and analytics
-
-### Leave Management
-- Digital leave applications
-- Approval workflow system
-- Leave balance tracking
-- SMS/WhatsApp notifications
-- Multiple leave types (Annual, Sick, Maternity, Emergency)
-
-### AI-Powered Recruitment
-- Intelligent CV parsing
-- Automated candidate scoring
-- Skills-based matching
-- Application tracking system
-- Interview scheduling
-
-### HR Chatbot
-- 24/7 employee support
-- Instant answers to HR queries
-- Payroll information lookup
-- Leave balance inquiries
-- Policy guidance
-
-### Mobile-First Design
-- Responsive web interface
-- SMS integration
-- WhatsApp notifications
-- Progressive Web App capabilities
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React 18 + TypeScript
-- **Styling:** Tailwind CSS
-- **Routing:** React Router DOM
-- **Icons:** Lucide React
-- **Build Tool:** Vite
-- **State Management:** React Context API
+![Landing Page](./images/mtaani-fix/Landing-page.png)  
+![WhatsApp Bot](./images/mtaani-fix/whatsApp-bot.png)  
+![Admin Dashboard](./images/mtaani-fix/admin-dashboard.png)  
+![Fundi Dashboard](./images/mtaani-fix/fundi-dashboard.png)  
+![Customer Dashboard](./images/mtaani-fix/customer-dashboard.png)  
 
 </details>
 
+---
 
+### 3️⃣ **Mariakani Sub-County Hospital Website**
+🏥 Responsive, multilingual hospital website with mobile-first design.  
 
-### 2. ``MtaaniFix`` - AI-Powered Service Booking Platform
-
-An intelligent platform connecting Kenyans with verified skilled workers through WhatsApp integration and AI-powered matching.
-- Revolutionizing how people find and book trusted professionals across the country.
-
-> Live demo: [View Demo](https://mtaanifix-ke.netlify.app/) | WhatsApp Bot: [Try Demo](https://mtaani-fix.netlify.app/whatsapp-bot)
+🔗 [Live Demo](https://mariakani-hospital-website.vercel.app/) 
 
 <details>
-  <summary>MtaaniFix - UI Screenshots</summary>
+  <summary> Project UI images</summary>
 
-  
-### Landing Page
-![MtaaniFix Landing Page](./images/mtaani-fix/Landing-page.png)
-
-### WhatsApp AI Bot Interface  
-![WhatsApp Bot](./images/mtaani-fix/whatsApp-bot.png)
-
-### Admin Dashboard
-![Admin Dashboard](./images/mtaani-fix/admin-dashboard.png)
-
-### Fundi (Service Provider) Dashboard
-![Fundi Dashboard](./images/mtaani-fix/fundi-dashboard.png)
-
-### Customer Dashboard
-![Customer Dashboard](./images/mtaani-fix/customer-dashboard.png)
+![Landing Page](./images/hospital/home.png)  
+![Services](./images/hospital/services.png)  
+![Home1](./images/hospital/home1.png)  
+![Admin](./images/hospital/admin.png)  
+![Home2](./images/hospital/home2.png) 
 
 </details>
+<br>
 
-<details>
-  <summary>Learn more about MtaaniFix</summary>
+✅ Role: **Front-End Developer / UI & UX Lead**  
+✅ Built **responsive, mobile-first UI** with Swahili & English support  
+✅ Developed dynamic components: carousel, services, contact forms  
+✅ Ensured **SEO, accessibility (WCAG 2.1)** & performance optimization  
 
-## Features
+**Skills:** React 18, TypeScript, Tailwind CSS, Framer Motion, SEO, Accessibility 
 
-### AI-Powered WhatsApp Bot
-- Natural language processing for service requests
-- Intelligent fundi matching based on location and ratings
-- Real-time booking confirmations and updates
-- 24/7 automated customer support
-- Smart conversation flow with context awareness
+---
 
-### Comprehensive Service Categories
-- **Plumbing:** Kitchen/bathroom repairs, pipe installation, drainage
-- **Electrical:** Wiring, solar installation, power systems
-- **Mechanics:** Vehicle repairs, diagnostics, maintenance
-- **ICT Support:** Computer repair, network setup, software installation
+### 4️⃣ **Customer Management & Billing System**
+💳 Role-based billing app for businesses.  
 
-### Advanced Fundi Management
-- Rigorous verification and background checking
-- Skills assessment and specialty certification
-- Real-time availability tracking
-- Performance analytics with detailed ratings
-- Earnings dashboard with commission transparency
+🔗 [GitHub Repo](https://github.com/nzyoka10/wbcms)  
 
-### Smart Booking System
-- AI-powered matching algorithm
-- GPS-based location matching
-- Dynamic pricing based on demand
-- Automated scheduling with conflict resolution
-- Multi-channel notifications (SMS, WhatsApp, Email)
+![Billing](images/Billing.png)
 
-###  Payment Integration
-- M-Pesa integration for instant payments
-- Transparent pricing with detailed breakdowns
-- Automatic commission calculations
-- Secure escrow system
-- Digital receipts and transaction history
+✅ Client login, Revenue reports, Print-ready invoices  
 
-### Business Intelligence Dashboard
-- Real-time KPIs and performance metrics
-- Revenue analytics with trend analysis
-- Geographic service distribution mapping
-- Customer satisfaction tracking
-- Predictive analytics for demand forecasting
+---
 
-### Trust & Safety Features
-- Comprehensive background verification
-- Insurance coverage options
-- Dispute resolution system
-- Quality assurance protocols
-- Emergency support and escalation
+### 5️⃣ **WemaCARE – AI-Powered Healthcare App**
+🤖 Mobile app for AI-driven symptom analysis via photo, voice, and text.  
 
-## 🛠️ Tech Stack
+🔗 [Live preview](https://mariakani-hospital-website.vercel.app/)  | [Watch Demo](https://www.youtube.com/watch?v=srX_OrCV0hE&feature=youtu.be)
 
-### Frontend
-- **React 18 + TypeScript** for type-safe development
-- **Tailwind CSS** for responsive styling
-- **React Router DOM** for navigation
-- **Lucide React** for iconography
-- **Recharts** for data visualizations
-- **Vite** for fast development builds
+✅ Role: **Backend & AI Integration Lead**  
+✅ Integrated AI models for photo, voice, and text symptom analysis  
+✅ Implemented **offline-first architecture** with local sync  
+✅ Optimized for **low-end devices** to minimize crashes  
 
-### Backend & Database
-- **Supabase** as Backend-as-a-Service
-- **PostgreSQL** with Row Level Security
-- **Real-time subscriptions** for live updates
-- **Edge Functions** with Deno runtime
-- **Automated backups** and recovery
+**Skills:** React Native, TypeScript, Node.js, AI Integration, Offline-first, Performance Optimization  
 
-### AI & Integrations
-- **Claude AI API** for natural language processing
-- **WhatsApp Business API** for messaging
-- **Africa's Talking SMS** for notifications
-- **M-Pesa API** for mobile payments
-- **Google Maps API** for location services
+---
 
-### DevOps
-- **Netlify** for deployment and CDN
-- **GitHub Actions** for CI/CD
-- **Environment-based configurations**
-- **Performance monitoring**
+### 6️⃣ **Bank Marketing API**
+📊 A RESTful API to manage customer data and marketing campaigns.  
 
-
-</details>
-
------
-
-
-#### 3. Bank Marketing API  
-*Node.js • Express.js • PostgreSQL*  
-- A RESTful API to manage customer data and marketing campaigns.  
+🔗 [GitHub Repo](https://github.com/nzyoka10/database-optimization-project)  
 
 ![Bank API](images/BankAPI.png)
 
-✅ Features:
-- CRUD operations
-- Indexed queries for fast responses
-- Swagger documentation
+✅ CRUD operations, Indexed queries, Swagger docs  
 
-🔗 [GitHub Repo](https://github.com/nzyoka10/database-optimization-project)
 
 ---
 
-#### 4.Customer Management & Billing System  
-*PHP • MySQL • Bootstrap*  
-- A role-based web billing app for businesses.  
-
-![Bank API](images/Billing.png)
-
-✅ Features:
-- Client login & role access
-- Revenue and transaction reports
-- Print-ready invoice output
-
-🔗 [GitHub Repo](https://github.com/nzyoka10/wbcms)
-
----
-
-#### 5. School Website  
-*HTML • CSS (Bootstrap) • JavaScript*  
-- A school website to showcase school activites
-
-![School Website](images/School.png)
-
-✅ Features:
-- Responsive design
-- Hero section with background
-- News section with scrolling effect
-- Academic section with accordion menu
-- Gallary and Contact form 
-
-🔗 [Live Demo](https://bright001.netlify.app)  
-
----
-
-#### 6. 🏪 Online Store (E-Commerce Platform)  
-*Flask • MySQL • Bootstrap*  
-- A fully responsive e-commerce platform with:
-- Product management
-- User login & checkout flow
-- Mpesa payments
-
-🔗 [GitHub Repo](https://github.com/nzyoka10/online-store)
-
----
-
-
+## 🐍 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake.svg" />
 </picture>
-
----
-
-### 📫 Let's Connect!
-
-- 💼 LinkedIn: [Get in touch](https://linkedin.com/in/ericnzyoka)  
-- 💻 GitHub: [Portfolio](https://#!)
-
 
