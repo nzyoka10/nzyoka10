@@ -1,18 +1,29 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hi, I'm **Eric Nzyoka**  
-### 💻 Fullstack Developer | ☁️ Cloud Enthusiast | 🚀 MERN
+
+> ### Fullstack | Cloud | MERN | 
 
 🎓 Software Engineering graduate with a strong foundation in modern development stacks, especially the **MERN** stack.  
 🛠️ Skilled in building **robust, scalable, and secure backend systems** with seamless frontend integration.  
 ☁️ Experienced in **Python, PHP, JavaScript, MySQL, Firebase**, and cloud deployment (GCP, Azure).  
 📈 Always exploring new technologies, delivering impactful projects, and solving real-world problems with code.  
 
----
 
-## 🧰 Tech Stack
+>### Currently Learning
 
-### 🔹 Programming & Development
+``Generative AI – Building Generative AI Applications``
+
+- Learning cutting-edge Generative AI skills for creating text, images, music and videos.
+- Delivered by AI PhDs and industry experts, blending theory with hands-on projects, weekly tutorials, and a final hackathon.
+- Uses the BCS Jaseci Lab ecosystem for practical experience in integrating and deploying AI applications.
+
+Prepares learners for high-impact roles as AI transforms healthcare, agriculture, finance, education and transportation.
+
+
+>### Tech Stack
+
+#### 🔹 Programming & Development
 | Languages | Frontend | Backend | IT Support |
 |-----------|----------|---------|------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF5733?style=for-the-badge&logo=gnometerminal&logoColor=white) |
@@ -22,7 +33,7 @@
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![Firewalls](https://img.shields.io/badge/Firewalls-D72638?style=for-the-badge&logo=fortinet&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |  | ![User Accounts](https://img.shields.io/badge/User%20Accounts-00796B?style=for-the-badge&logo=linuxfoundation&logoColor=white) |
 
-### 🔹 Databases, Tools & Cloud
+#### 🔹 Databases, Tools & Cloud
 | Databases | Tools | Cloud & DevOps | Hosting & Deployment |
 |-----------|-------|----------------|----------------------|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
@@ -31,16 +42,16 @@
 | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  | ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  |  |
 
-### 🔹 AI, FinTech & Other Skills
+#### 🔹 AI, FinTech & Other Skills
 | FinTech & Payments | AI & ML | Mobile & Messaging | Other Tools |
 |--------------------|---------|--------------------|-------------|
 | ![M-Pesa](https://img.shields.io/badge/M--Pesa-00D632?style=for-the-badge&logo=safaricom&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
 | ![Payment APIs](https://img.shields.io/badge/Payment_APIs-0052CC?style=for-the-badge&logo=paypal&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![SMS API](https://img.shields.io/badge/SMS_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 |  | ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | ![Figma](https://img.shields.io/badge/UI%2FUX-Figma-FF61F6?style=for-the-badge&logo=figma&logoColor=white) |
 
----
 
-## 🧠 Featured Projects
+
+>## Featured Projects
 
 ### 1️⃣ **HREdge – Smart HR Platform for Kenyan SMEs**
 💼 A Human Resources platform designed for SMEs in Kenya.  
@@ -139,9 +150,8 @@
 ✅ CRUD operations, Indexed queries, Swagger docs  
 
 
----
 
-## 🐍 GitHub Activity
+>## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake-dark.svg" />
