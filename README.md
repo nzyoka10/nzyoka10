@@ -1,8 +1,6 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hi, I'm **Eric Nzyoka**  
 
-> ### Fullstack | Cloud | MERN | 
 
 🎓 Software Engineering graduate with a strong foundation in modern development stacks, especially the **MERN** stack.  
 🛠️ Skilled in building **robust, scalable, and secure backend systems** with seamless frontend integration.  
