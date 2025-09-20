@@ -19,7 +19,7 @@
 Prepares learners for high-impact roles as AI transforms healthcare, agriculture, finance, education and transportation.
 
 
->### Tech Stack
+>### Technologies 
 
 #### 🔹 Programming & Development
 | Languages | Frontend | Backend | IT Support |
